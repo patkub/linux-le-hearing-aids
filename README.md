@@ -10,7 +10,7 @@ Tested with:
 ### Process
 
 Edit `/etc/bluetooth/main.conf` and set:
-```
+```ini
 # Restricts all controllers to the specified transport. Default value
 # is "dual", i.e. both BR/EDR and LE enabled (when supported by the HW).
 # Possible values: "dual", "bredr", "le"
