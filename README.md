@@ -20,8 +20,7 @@ ControllerMode = le
 Experimental = true
 
 # Enables kernel experimental features, set to true or enable by UUID
-# 6fbaf188-05e0-496a-9885-d6ddfdb4e03e (BlueZ Experimental ISO socket)
-KernelExperimental = 6fbaf188-05e0-496a-9885-d6ddfdb4e03e
+KernelExperimental = true
 ```
 
 Restart Bluetooth:
